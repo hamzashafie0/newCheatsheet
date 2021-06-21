@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cheat Sheet</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>HTML5 Cheat Sheet</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Tag</th>
+                    <th>Name</th>
+                    <th>Basic Explanation</th>   
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><code>footer</code></td>
+                    <td>Footer</td>
+                    <td>Use for content in the Footer</td>
+                </tr>
+                <tr>
+                    <td><code>header</code></td>
+                    <td>Header</td>
+                    <td>Put your h1's here</td>
+                </tr>
+                <tr>
+                    <td><code>main</code></td>
+                    <td>Main</td>
+                    <td>Your main content goes here</td>
+                </tr>
+                <tr>
+                    <td><code>column</code></td>
+                    <td>Column</td>
+                    <td>Use this for your columns</td>
+                </tr>
+                <tr>
+                    <td><code>side</code></td>
+                    <td>Side</td>
+                    <td>Side article? Here</td>
+                </tr>
+                <tr>
+                    <td class="last"><code>article</code></td>
+                    <td class="last">Article</td>
+                    <td class="last">And.... your main article</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+    <footer> Created by Hamza Shafie
+      </footer>
+</html>
